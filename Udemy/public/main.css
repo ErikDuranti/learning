@@ -1,0 +1,35 @@
+#game {
+   display: none; 
+}
+
+.rank {
+    margin: 50px;
+
+}
+
+table {
+  background: white;
+  width: 500px;
+  height: 500px;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1.titulo {
+    text-align: center;
+
+}
+
+.linha-do-meio td {
+  border-top: 5px solid black;
+  border-bottom: 5px solid black;
+  width: 50px;
+}
+
+.linha1 {
+  border-left: 5px solid black;
+  border-right: 5px solid black;
+}
